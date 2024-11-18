@@ -1,6 +1,3 @@
-# 💫 About Me:
-Profesi : Developer dan Mahasiswa<br><br>Keahlian:<br>- Frontend: React, Tailwind CSS<br>- Backend:Express, Sequelize<br><br>Deskripsi Singkat:<br>Saya adalah seorang developer yang berpengalaman dalam pengembangan aplikasi manajemen properti. Saya memiliki keahlian dalam menggunakan React untuk frontend, Express dan Sequelize untuk backend, serta Tailwind CSS untuk styling. Saya juga berpengalaman dalam menangani upload gambar dan file. Saat ini, saya adalah seorang mahasiswa yang tertarik untuk mempelajari lebih lanjut tentang Google Maps API dan fitur berbasis lokasi untuk meningkatkan fungsionalitas aplikasi saya.<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barra.adhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagassrr17) 
